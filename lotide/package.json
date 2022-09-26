@@ -10,7 +10,7 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "@ahirsi1215/lotide",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.6",
